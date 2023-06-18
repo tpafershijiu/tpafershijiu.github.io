@@ -2,12 +2,13 @@
 
 { 
     "xiaofeng1041":{
-        "url":"",
-        "isToPage":false,
+        "url":"https://webyundun1.ojwinyundun1.com/?cid=314362&languageCode=pt&type=2&currency=BRL",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
             "PH",
+            "HK",
             "BR"
         ],
         "appsflyerKey":"",
