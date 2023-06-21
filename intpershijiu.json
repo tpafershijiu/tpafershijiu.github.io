@@ -2,16 +2,13 @@
 
 { 
     "xiaofeng1041":{
-        "url":"https://m.24kbet.com/register?agentCode=186B585C",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
-            "LA",
-            "PH",
-            "HK",
-            "BR"
+            "IN"
         ],
-        "appsflyerKey":"juvAaeDCmK3iTbs8YUNZjk",
+        "appsflyerKey":"",
         "fbAppId":"652420196766994",
         "fbClientId":"745bea43d13493274090757306d4a10e"
     },
@@ -31,16 +28,13 @@
     },
    
     "xiaofeng1043":{
-        "url":"https://m.24kbet.com/register?agentCode=186B585C",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
-            "LA",
-            "PH",
-            "BR",
-            "HK"
+            "IN"
         ],
-        "appsflyerKey":"juvAaeDCmK3iTbs8YUNZjk",
+        "appsflyerKey":"",
         "fbAppId":"1017113255924991",
         "fbClientId":"84c9be42916339cb714854a1e4e4d21e"
     }
