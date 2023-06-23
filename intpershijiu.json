@@ -14,13 +14,10 @@
     },
     "xiaofeng1042":{
         "url":"https://m.24kbet.com/register?agentCode=186B585C",
-        "isToPage":true,
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
-            "LA",
-            "PH",
-            "BR",
-            "HK"
+            "IN"
         ],
         "appsflyerKey":"juvAaeDCmK3iTbs8YUNZjk",
         "fbAppId":"283851064043075",
